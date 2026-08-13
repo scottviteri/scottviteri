@@ -22,6 +22,8 @@ machine.
 
 ## Experiments and visual work
 
+- **[HessianAnalysis](https://github.com/scottviteri/HessianAnalysis)** — An exploratory measurement framework for asking whether independently initialized language models converge toward similar gradient, function-update, subspace, and curvature geometry during training.
+
 - **[ouroboros](https://github.com/scottviteri/ouroboros)** — A constrained self-modification experiment: an Emacs Lisp program can rewrite both its source and the prompt that determines how it will next be rewritten, while a small external kernel preserves the experimental record.
 
 - **[UniversalBackrooms](https://github.com/scottviteri/UniversalBackrooms)** — A multi-model recreation of the Backrooms experiment, with configurable conversational templates and example transcripts. It is the most widely used repository on this account, but its model and API assumptions are now historical.
@@ -35,6 +37,8 @@ machine.
 - **Active research:** `ept-ai-analysis` is an audited, reproducible analysis with a live report; follow-up work on proof grain and full unfolding is still in progress.
 
 - **Active prototype:** `Weft` has working GUI, terminal, and library interfaces and a passing local test suite.
+
+- **Research prototype:** `HessianAnalysis` has functional training and plotting tools plus documented metrics, but not yet benchmark results, a paper, or a stable API.
 
 - **Early experiment:** `ouroboros` has a documented kernel, published lineage, and explicit containment model; its scientific value is still exploratory.
 
