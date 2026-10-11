@@ -1,10 +1,18 @@
 # Scott Viteri
 
-I am a computer science PhD candidate at Stanford's Center for AI Safety. I
-study how language models can produce reasoning and memory that improve their
-own learning, and how reasoning systems organize knowledge. My work has moved
-from formal verification and interactive theorem proving toward AI alignment,
-reinforcement learning, and self-directed learning.
+I am a computer science PhD candidate at Stanford, advised by Clark Barrett.
+My research asks **how agents acquire, organize, and use knowledge**.
+
+I study what makes exploration informative, how to train language models to
+produce reasoning their answers actually depend on, and how the structure of
+mathematical proofs supports belief in their conclusions. I approach these
+questions through probability, information theory, formal methods, and
+computational experiments.
+
+My broader motivation is AI alignment. I am interested in systems that help
+direct their own learning—choosing what to investigate and what to remember—and
+in how that learning shapes their concepts and values. I want to understand how
+we can guide this process as AI systems become more capable.
 
 [Website and publications](https://scottviteri.com/)
 
