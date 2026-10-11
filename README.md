@@ -14,6 +14,8 @@ machine.
 
 ## Start here
 
+- **[What Is Exploration?](https://github.com/scottviteri/what-is-exploration)** — Companion repository for our arXiv paper, [When Do Intrinsic Rewards Lead to Exploration?](https://arxiv.org/abs/2610.02159). Includes the manuscript, selected Lean sources, experiment code, and supporting evidence. The paper compares exploration policies by the counterfactual information they acquire and studies when intrinsic rewards lead to optimal exploration.
+
 - **[Markovian Transformers for Informative Language Modeling](https://github.com/scottviteri/MarkovianTraining)** — Code, evaluations, and artifacts for our [ICLR 2026 paper](https://openreview.net/forum?id=OMjcX1Z6Uu). The project studies reinforcement-learning objectives that reward chains of thought for being useful context for the model's own answer.
 
 - **[Epistemic phase transitions in AI-era mathematics](https://github.com/scottviteri/ept-ai-analysis)** — A reproducible extension of my earlier work on proof-dependency networks to AI-assisted Lean corpora, including audited derived data and an [interactive report](https://scottviteri.github.io/ept-ai-analysis/).
